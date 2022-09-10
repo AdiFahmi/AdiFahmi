@@ -4,8 +4,6 @@ I’m Adi Fahmi, an experienced Software Engineer (mostly in Backend), a lifelon
 I have proven track records of created end-to-end services in a multi-nationalities team and deployed
 them to multi-regions across the world.
 
-<br />
-
 ### 🛠 &nbsp;Tech Skills Highlight
 <br />
 
@@ -40,8 +38,6 @@ them to multi-regions across the world.
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
 
-<br />
-
 ### 📈 &nbsp;GitHub Stats
 <br />
 
@@ -51,8 +47,6 @@ them to multi-regions across the world.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdiFahmi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<br />
 
 ### 🤝🏻 &nbsp;Connect with Me
 <br />
