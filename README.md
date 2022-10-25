@@ -53,7 +53,4 @@ them to multi-regions across the world.
 
 <p>
 <a href="https://linkedin.com/in/adifahmii"><img src="https://img.shields.io/badge/-Adi%20Fahmi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:adifahmi379@gmail.com"><img src="https://img.shields.io/badge/-adifahmi379@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adifahmii"><img src="https://img.shields.io/badge/-@adifahmii_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/adifahmii"><img src="https://img.shields.io/badge/-Adi%20Fahmi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
