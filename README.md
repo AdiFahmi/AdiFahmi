@@ -1,6 +1,6 @@
 Hey there 👋
 
-I’m Adi Fahmi, an experienced Software Engineer (mostly in Backend), a lifelong learner, and eager for a challenge.
+An experienced Software Engineer (mostly in Backend), a lifelong learner, and eager for a challenge.
 I have proven track records of created end-to-end services in a multi-nationalities team and deployed
 them to multi-regions across the world.
 
@@ -13,7 +13,6 @@ them to multi-regions across the world.
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
